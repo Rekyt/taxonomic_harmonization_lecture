@@ -1,4 +1,4 @@
-# ::page_with_curl: Lecture on Taxonomic Harmonization
+# :page_with_curl: Lecture on Taxonomic Harmonization
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7417951.svg)](https://doi.org/10.5281/zenodo.7417951)
 
